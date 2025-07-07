@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/com.gridnine.testing.iml" filepath="$PROJECT_DIR$/com.gridnine.testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FlightFilter.iml" filepath="$PROJECT_DIR$/FlightFilter.iml" />
     </modules>
   </component>
 </project>
